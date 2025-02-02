@@ -1,6 +1,7 @@
 ## Running the code
 
 ```
+  $ npm install
   $ npm run dev
 ```
 
